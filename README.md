@@ -225,7 +225,7 @@ RETURN collect(n.title);
 
 ## Loading data from CSV files
 
-Given the following CSV files:
+Given the following CSV files (they need to be in `$NEO4J_HOME/import`):
 
 **persons.csv**
 ```CSV
